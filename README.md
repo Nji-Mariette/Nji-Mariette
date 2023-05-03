@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3 Dev
 - 🌱 I’m currently learning Javascript alongside C and Shell(bash) for Systems Programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can contact me at marietteneh@gmail.com
 
 <!---
 Nji-Mariette/Nji-Mariette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
