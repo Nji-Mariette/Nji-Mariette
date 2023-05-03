@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nji-Mariette
-- 👀 I’m interested in Web3 Dev
-- 🌱 I’m currently learning Javascript alongside C and Shell(bash) for Systems Programming
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web3 Dev, UI/UX Design
+- 🚨 An aspiring cybersecurity annalyst.
+- 🌱 I’m currently learning Python, Javascript alongside C and Shell(bash) for Systems Programming
 - 📫 You can contact me at marietteneh@gmail.com
 
 <!---
